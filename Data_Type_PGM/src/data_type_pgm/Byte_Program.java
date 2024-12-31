@@ -9,6 +9,8 @@ public class Byte_Program {
 		
 		byte a=10 ;
 		System.out.println(a);
+		System.out.println(a+a);
+
 
 	}
 
